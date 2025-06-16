@@ -1,0 +1,35 @@
+# Stack build artifacts
+/.stack-work/
+
+# Cabal build artifacts
+/dist-newstyle/
+/dist/
+/cabal-dev/
+/cabal.sandbox.config
+/stack.yaml.lock
+
+# GHC environment files
+.ghc.environment.*
+
+# Haskell IDE Engine files
+/.hie-bios
+
+# Local configuration
+*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Vim/Emacs/VSCode/JetBrains IDE files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*.vscode/
+.idea/
+*.iml
+
+# Stack global config (optional)
+/.stack-work/

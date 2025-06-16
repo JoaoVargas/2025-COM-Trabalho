@@ -10,12 +10,11 @@ build-type:     Simple
 
 library
   exposed-modules:
+      Main
+  other-modules:
       AST
       Lexer
-      Main
       Parser
-      Utils
-  other-modules:
       Paths_compilador
   hs-source-dirs:
       src

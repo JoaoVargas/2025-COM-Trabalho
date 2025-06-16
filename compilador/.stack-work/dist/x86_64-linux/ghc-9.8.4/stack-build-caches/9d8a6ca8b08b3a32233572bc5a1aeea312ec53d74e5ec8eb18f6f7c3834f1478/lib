@@ -1,14 +1,22 @@
+/home/jotapc/.ghcup/ghc/9.8.4/lib/ghc-9.8.4/lib/x86_64-linux-ghc-9.8.4/rts-1.0.2/include/ghcautoconf.h:
+  hash: 5b150f6e71b36c87ffa93b4663abb9f9e7e366cecba2c5415b960dc6ceb1d658
+/home/jotapc/.ghcup/ghc/9.8.4/lib/ghc-9.8.4/lib/x86_64-linux-ghc-9.8.4/rts-1.0.2/include/ghcconfig.h:
+  hash: 03f4611ae97decc9e8c76c212bf7886d003b29d5c62b43fee6623a799f6e5fdf
+/home/jotapc/.ghcup/ghc/9.8.4/lib/ghc-9.8.4/lib/x86_64-linux-ghc-9.8.4/rts-1.0.2/include/ghcplatform.h:
+  hash: 9d92e7810489d6597bf8299451c589ace48db86985437918f5a9e745629103e7
+/home/jotapc/.ghcup/ghc/9.8.4/lib/ghc-9.8.4/lib/x86_64-linux-ghc-9.8.4/rts-1.0.2/include/ghcversion.h:
+  hash: 95162794a3bf5e6167631fdd41a509846597231d523d0f21a76713b1f801373c
 ? /home/jotapc/Projects/Repo-Udesc-Geral/Disciplinas/2025.1/2025.1.COM/Trabalho/compilador/.stack-work/dist/x86_64-linux/ghc-9.8.4/build/autogen/Paths_compilador.hs
 : hash: 5a687a26c9907855cebc0e36513844674670ee35f40ebea577d9089650c949a6
 /home/jotapc/Projects/Repo-Udesc-Geral/Disciplinas/2025.1/2025.1.COM/Trabalho/compilador/compilador.cabal:
-  hash: 69199f301eca987a07da1eb323b60ae4f9d3f60efb9ba73d198ee78820da4c3f
+  hash: ed01d179af711acde72ce56e94ba32ee666eeefb22781aec3a2289c83a2d06ef
 /home/jotapc/Projects/Repo-Udesc-Geral/Disciplinas/2025.1/2025.1.COM/Trabalho/compilador/src/AST.hs:
-  hash: 6ba678a5d89a2f41524f414f072fe0e9c78dd37e0381cbae43c3116ba30b2197
+  hash: e8cc946b94ced54f50ddda101d61b9e2df54310d3bf95b29a0fab92d9dea7d2d
 /home/jotapc/Projects/Repo-Udesc-Geral/Disciplinas/2025.1/2025.1.COM/Trabalho/compilador/src/Lexer.x:
-  hash: 25399e0ef5fbaa5fa9cc2e4a12a4e75d27dab906b354a0a10189d360672c0d19
+  hash: 90aa0ba8dccf45daef75b0570903ea933045fa6fb92870f7dbefeed572e6a615
 /home/jotapc/Projects/Repo-Udesc-Geral/Disciplinas/2025.1/2025.1.COM/Trabalho/compilador/src/Main.hs:
-  hash: 36b4234172b25938ecf88a82f014fed25f81f0e4d80953379e7760a4c4060c13
+  hash: c1267671c3a0ba9f65f824c8ecc356ec226bdb27565d3f9bf0647f5ce02aeee9
 /home/jotapc/Projects/Repo-Udesc-Geral/Disciplinas/2025.1/2025.1.COM/Trabalho/compilador/src/Parser.y:
-  hash: 0d27928e3167992e37b5348ba5c074a1662ca88a59ac8dfbfe82dd39ebd3664e
-/home/jotapc/Projects/Repo-Udesc-Geral/Disciplinas/2025.1/2025.1.COM/Trabalho/compilador/src/Utils.hs:
-  hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  hash: 80c0824d49f81666b7bcab6b4dc721495d0b3d7e11c0e707102edda840ce2af5
+/usr/include/stdc-predef.h:
+  hash: 8db4f65e62cade8ae4d9b77960ee6aee093255acc1b637e3fb37d79179733b15

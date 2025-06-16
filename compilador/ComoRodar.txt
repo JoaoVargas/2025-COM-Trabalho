@@ -1,0 +1,8 @@
+alex src/Lexer.x     
+happy src/Parser.y
+ghci -package array src/Lexer.hs src/Token.hs
+  - excutar função testLex
+  - após entrar na fução, inserir "0*2" (sem aspas)
+ghci -package array src/Parser.hs src/Lexer.hs src/Token.hs
+  - executar função main
+  - após entrar na função, inserir "0+2+3" (sem aspas)

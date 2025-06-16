@@ -1,16 +1,16 @@
 all: parser
 
-parser: Lexer.hs Parser.hs Main.hs
-	ghc --make Main.hs -o compilador
+parser: Lexer.hs Parser.hs
+	ghc --make src/Main.hs -o compilador -v
 
-Lexer.hs: Lexer.x
-	alex Lexer.x
+Lexer.hs:
+	alex src/Lexer.x
 
-Parser.hs: Parser.y
-	happy Parser.y
+Parser.hs:
+	happy src/Parser.y
 
 clean:
-	rm -f *.hi *.o *.info Lexer.hs Parser.hs compilador
+	rm -f src/*.hi src/*.o src/*.info src/Lexer.hs src/Parser.hs compilador
 
 test: parser
 	./compilador < test/TestCases/test1.txt
